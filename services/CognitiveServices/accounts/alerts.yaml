@@ -6,6 +6,7 @@
   tags:
   - auto-generated
   - agc-1205
+  - rag
   properties:
     metricName: TotalCalls
     metricNamespace: Microsoft.CognitiveServices/accounts
@@ -26,6 +27,7 @@
   tags:
   - auto-generated
   - agc-1052
+  - rag
   properties:
     metricName: TotalErrors
     metricNamespace: Microsoft.CognitiveServices/accounts
@@ -45,6 +47,7 @@
   tags:
   - auto-generated
   - agc-882
+  - rag
   properties:
     metricName: Latency
     metricNamespace: Microsoft.CognitiveServices/accounts
@@ -65,6 +68,7 @@
   tags:
   - auto-generated
   - agc-852
+  - rag
   properties:
     metricName: SuccessRate
     metricNamespace: Microsoft.CognitiveServices/accounts
@@ -84,6 +88,7 @@
   tags:
   - auto-generated
   - agc-606
+  - rag
   properties:
     metricName: ServerErrors
     metricNamespace: Microsoft.CognitiveServices/accounts
@@ -103,6 +108,7 @@
   tags:
   - auto-generated
   - agc-530
+  - rag
   properties:
     metricName: TokenTransaction
     metricNamespace: Microsoft.CognitiveServices/accounts
@@ -122,6 +128,7 @@
   tags:
   - auto-generated
   - agc-468
+  - rag
   properties:
     metricName: BlockedCalls
     metricNamespace: Microsoft.CognitiveServices/accounts
@@ -141,6 +148,7 @@
   tags:
   - auto-generated
   - agc-420
+  - rag
   properties:
     metricName: ClientErrors
     metricNamespace: Microsoft.CognitiveServices/accounts
